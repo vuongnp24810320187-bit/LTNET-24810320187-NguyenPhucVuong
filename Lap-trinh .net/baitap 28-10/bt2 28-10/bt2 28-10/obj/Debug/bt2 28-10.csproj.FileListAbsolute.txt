@@ -1,0 +1,9 @@
+d:\Đề cương\Lap-trinh .net\baitap 28-10\bt2 28-10\bt2 28-10\bin\Debug\bt2 28-10.exe.config
+d:\Đề cương\Lap-trinh .net\baitap 28-10\bt2 28-10\bt2 28-10\bin\Debug\bt2 28-10.exe
+d:\Đề cương\Lap-trinh .net\baitap 28-10\bt2 28-10\bt2 28-10\bin\Debug\bt2 28-10.pdb
+d:\Đề cương\Lap-trinh .net\baitap 28-10\bt2 28-10\bt2 28-10\obj\Debug\bt2 28-10.csproj.AssemblyReference.cache
+d:\Đề cương\Lap-trinh .net\baitap 28-10\bt2 28-10\bt2 28-10\obj\Debug\bt2_28_10.Properties.Resources.resources
+d:\Đề cương\Lap-trinh .net\baitap 28-10\bt2 28-10\bt2 28-10\obj\Debug\bt2 28-10.csproj.GenerateResource.cache
+d:\Đề cương\Lap-trinh .net\baitap 28-10\bt2 28-10\bt2 28-10\obj\Debug\bt2 28-10.csproj.CoreCompileInputs.cache
+d:\Đề cương\Lap-trinh .net\baitap 28-10\bt2 28-10\bt2 28-10\obj\Debug\bt2 28-10.exe
+d:\Đề cương\Lap-trinh .net\baitap 28-10\bt2 28-10\bt2 28-10\obj\Debug\bt2 28-10.pdb
