@@ -4,12 +4,10 @@
 ---
 
 ## MỤC 1: THÔNG TIN SINH VIÊN
-* **Họ và tên sinh viên:** [Điền họ và tên sinh viên]
-* **Mã sinh viên:** [Điền mã sinh viên]
-* **Lớp / Khóa:** [Điền tên lớp, ví dụ: CNTT K16, D21CQCN01-N, ...]
+* **Họ và tên sinh viên:** Nguyễn Phúc Vượng 
+* **Mã sinh viên:** 24810320187
+* **Lớp / Khóa:** D19QTANM1
 * **Môn học:** Lập trình C# .NET / Lập trình Windows Form
-* **Giảng viên hướng dẫn:** [Điền họ tên Giảng viên bộ môn]
-* **Link Repository GitHub:** [Dán đường link GitHub Repository Public tại đây]
 
 ---
 
